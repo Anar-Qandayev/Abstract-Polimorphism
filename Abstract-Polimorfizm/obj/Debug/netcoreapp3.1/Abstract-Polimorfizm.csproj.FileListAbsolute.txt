@@ -1,0 +1,14 @@
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\bin\Debug\netcoreapp3.1\Abstract-Polimorfizm.exe
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\bin\Debug\netcoreapp3.1\Abstract-Polimorfizm.deps.json
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\bin\Debug\netcoreapp3.1\Abstract-Polimorfizm.runtimeconfig.json
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\bin\Debug\netcoreapp3.1\Abstract-Polimorfizm.runtimeconfig.dev.json
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\bin\Debug\netcoreapp3.1\Abstract-Polimorfizm.dll
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\bin\Debug\netcoreapp3.1\Abstract-Polimorfizm.pdb
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\obj\Debug\netcoreapp3.1\Abstract-Polimorfizm.csproj.AssemblyReference.cache
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\obj\Debug\netcoreapp3.1\Abstract-Polimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\obj\Debug\netcoreapp3.1\Abstract-Polimorfizm.AssemblyInfoInputs.cache
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\obj\Debug\netcoreapp3.1\Abstract-Polimorfizm.AssemblyInfo.cs
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\obj\Debug\netcoreapp3.1\Abstract-Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\obj\Debug\netcoreapp3.1\Abstract-Polimorfizm.dll
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\obj\Debug\netcoreapp3.1\Abstract-Polimorfizm.pdb
+C:\Users\ibm\Documents\Abstract&Polimorfizm\Abstract-Polimorfizm\Abstract-Polimorfizm\obj\Debug\netcoreapp3.1\Abstract-Polimorfizm.genruntimeconfig.cache

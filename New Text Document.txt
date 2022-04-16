@@ -1,0 +1,7 @@
+Bir Figure abstrakt class-ı olur və onun Figure-dan miras alan zaman mütləq override edilməsi lazım olan bir CalcArea methodu olur.
+
+Bir Square class-ı olur side deyə bir property-i olur və side mənfi ola bilməz.
+Square class-ı Figure class-ından miras alacaq və CalcArea methodunu özünə uyğun override edəcək.
+
+Bir Rectangular class-ı olur width və length deyə property-ləri olacaq, width və length mənfi ola bilməz.
+Rectangular class-ı Figure class-ından miras alacaq və CalcArea methodunu özünə uyğun override edəcək.
